@@ -1,0 +1,16 @@
+table {
+    color: green ;
+}
+
+[ colspan="2"] {
+    color: orange ; 
+}
+
+.Privet {
+
+    color: green;
+}
+
+html tr {
+    color: yellow;
+}
